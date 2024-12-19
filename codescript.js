@@ -82,6 +82,11 @@
 // for (let i = 1; i <= 5; i++) {
 //     console.log("Number:", i);
 //   }
+
+// for(let i = 1; i <= 10; i++){
+//     console.log((i));
+    
+// }
   
 // for (let i = 1; i <= 22; ++i){
 //     console.log("Number is : ", i);
@@ -106,5 +111,38 @@
 //     console.log("number:", i);
 //     i++
 // }while(i<=5)
+
+// let num = -5;
+// if (num > 0){
+//     console.log("+ve number");
+// }else if(num < 0){
+//     console.log("-ve number");
+// }else{"number is 0"}
+
+
+// let month = 5;
+// switch (month) {
+//     case 1:
+//         console.log("january"); 
+//         break;
+//     case 2:
+//         console.log("Fanuary"); 
+//         break;
+//     case 3:
+//         console.log("Manuary"); 
+//         break;
+//     case 4:
+//         console.log("Aanuary"); 
+//         break;
+//     case 5:
+//         console.log("May"); 
+//         break;
+//     case 6:
+//         console.log("juneary"); 
+//         break;
+//     default:
+//         console.log("Invalid Month");       
+//         break;
+// }
 
 
